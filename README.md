@@ -1,0 +1,1 @@
+# Automatic-Approach-for-Mapping-Relational-Database-Schema-into-NoSQL-Database-Schema
